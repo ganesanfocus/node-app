@@ -1,0 +1,16 @@
+{
+  "name": "my-node-app",
+  "version": "1.0.0",
+  "description": "A simple Node.js app with Yup validation",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "keywords": [],
+  "author": "https://mail.google.com/mail/u/1/#inbox/FMfcgzQZTVkZrfhdjkXBwXcBCJdmJcXt",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.2",
+    "yup": "^1.6.1"
+  }
+}
